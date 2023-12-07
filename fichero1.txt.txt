@@ -1,3 +1,3 @@
-Primer fichero crado en pc
-linea conflictiva desde main
-Cambio en rama prueba
+Primer fichero crado en pc.
+Mi segunda linea consensuada.
+
