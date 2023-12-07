@@ -1,2 +1,2 @@
 Primer fichero crado en pc
-Cambio en rama prueba
+Mi segunda linea desde prueba2.
